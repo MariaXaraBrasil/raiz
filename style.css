@@ -1,0 +1,102 @@
+<style>
+
+body{
+  margin: 0 auto;
+  max-width: 50em;
+}
+body{
+  font-family: "helvetica", "arial", sans-srif;
+}
+body{
+  line-height: 1.5;
+  padding: 2em 1em;
+}
+
+header h2 {
+margin-top: 1em;
+padding-top: 1em;
+text-shadow: 0 0 8px #0055ff;
+color:orange;
+}
+
+body{
+  color: #555;
+}
+h1, h2, strong {
+  color: #333;
+  font-weight: 700;
+}
+
+section, footer{
+  background: #e4f0f5;
+  padding: 2px 4px;
+  vertical-align: text-bottom;
+  border-left: 2px solid #69c;
+}
+
+article{
+  padding: 1em
+}
+
+a{
+  color: #e81c4f;
+}
+
+article{
+  background: #fafafa;
+  border-bottom: 1px solid #d8dee9;
+  color: #a7adba
+}
+
+
+link href="https://fonts.googleapis.com/css2? family=Roboto+Mono:wght@300;700&display=swap" rel="stylesheet"
+
+article {
+  font-family:"roboto mono", monospace;
+}
+
+hearder {
+  line-height:1.2;
+  padding: 1vw 2em;
+  text-align: center;
+  margin-bottom:10%;
+}
+
+html{
+  background-image: url("header.jpg");
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: 100% 30%;
+}
+
+header img{
+  display: inline-block;
+  height: 120px;
+  vertical-align: top;
+  width: 120px; 
+}
+
+hearder h1 {
+  color:white;
+  font-size: 2.5em;
+  font-weight:700;
+}
+
+footer a {
+  border: 1px solid #e81c4f
+  boder-radius: 290486px;
+  color: white;
+  font-size: 0.6em;
+  letter-spacing: 0.2em;
+  padding: 1em 2em;
+  text-transform: uppercase;
+  text-decoration: none;
+  transition: none 200ms ease-out;
+  transition-property: color, background;
+}
+
+footer a:hover {
+  background: #e81c4f;
+  color: white;
+
+}
